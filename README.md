@@ -1,2 +1,2 @@
 My first readme.
-Chnages to pull 
+Changes to pull 
